@@ -1,7 +1,5 @@
 # nodelabs_movie_case
 
 
-Flutter 3.24.5 • channel stable • https://github.com/flutter/flutter.git
-Framework • revision dec2ee5c1f (8 months ago) • 2024-11-13 11:13:06 -0800
-Engine • revision a18df97ca5
-Tools • Dart 3.5.4 • DevTools 2.37.3
+- • Flutter 3.24.5 • channel stable
+- • Dart 3.5.4 

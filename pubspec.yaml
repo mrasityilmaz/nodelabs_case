@@ -1,0 +1,93 @@
+name: nodelabs_movie_case
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+
+
+
+  cupertino_icons: ^1.0.8
+  auto_route: ^9.2.2
+  cached_network_image: ^3.4.1
+  dart_mappable: ^4.3.1
+  dartz: ^0.10.1
+  equatable: ^2.0.7
+  flutter_svg: ^2.1.0
+  image_picker: ^1.1.2
+  logger: ^2.6.0
+  smooth_sheets: ^0.10.2
+  vexana: ^5.0.3
+  bloc: ^9.0.0
+  provider: ^6.1.5
+  flutter_secure_storage: ^4.2.1
+  flutter_bloc: ^9.1.1
+  bloc_concurrency: ^0.3.0
+  formz: ^0.8.0
+  flutter_native_splash: ^2.4.4
+  collection: ^1.18.0
+  easy_refresh: ^3.4.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+  build_runner: ^2.4.13
+  auto_route_generator: ^9.0.0
+  dart_mappable_builder: ^4.3.1+1
+  very_good_analysis: ^7.0.0
+  mockito: ^5.4.4
+  bloc_lint: ^0.1.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/icons/
+    - assets/splash/
+    - assets/bottom_nav_bar_icons/
+
+  fonts:
+    - family: Euclid Circular A
+      fonts:
+        - asset: assets/fonts/Euclid_Circular_A_Bold_Italic.ttf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/Euclid_Circular_A_Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Euclid_Circular_A_Italic.ttf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/Euclid_Circular_A_Light_Italic.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/Euclid_Circular_A_Light.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/Euclid_Circular_A_Medium_Italic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/Euclid_Circular_A_Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Euclid_Circular_A_Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Euclid_Circular_A_SemiBold_Italic.ttf
+          weight: 600
+          style: italic
+        - asset: assets/fonts/Euclid_Circular_A_SemiBold.ttf
+          weight: 600

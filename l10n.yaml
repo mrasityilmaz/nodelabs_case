@@ -1,0 +1,7 @@
+synthetic-package: false
+use-escaping: true
+output-dir: lib/l10n/generated
+arb-dir: ./l10n
+nullable-getter: false
+output-class: S
+untranslated-messages-file: l10n_errors.txt

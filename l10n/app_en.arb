@@ -1,0 +1,71 @@
+
+{
+   "@@locale": "en",
+   "hello" : "Hello",
+   "login_description" : "Tempus varius a vitae interdum id tortor elementum tristique eleifend at.",
+   "welcome": "Welcome",
+   "welcome_description" : "Tempus varius a vitae interdum id tortor elementum tristique eleifend at.",
+
+
+   "nameSurname": "Name Surname",
+   "nameSurname_required" : "Name Surname field is required.",
+   "nameSurname_min_length" : "Name Surname field must be at least 3 characters.",
+   "nameSurname_max_length" : "Name Surname field must be at most 50 characters.",
+   "nameSurname_invalid" : "Name Surname field is invalid.",
+
+   "email": "Email",
+   "email_required" : "Email field is required.",
+   "email_invalid" : "Email format is invalid.",
+
+   "password": "Password",
+   "password_required" : "Password field is required.",
+   "password_min_length" : "Password field must be at least 8 characters.",
+   "password_max_length" : "Password field must be at most 20 characters.",
+   "password_confirmation": "Password Confirmation",
+   "password_weak" : "Password is weak.",
+   "password_confirmation_required" : "Password Confirmation field is required.",
+   "password_confirmation_min_length" : "Password Confirmation field must be at least 8 characters.",
+   "password_confirmation_max_length" : "Password Confirmation field must be at most 20 characters.",
+   "password_confirmation_not_match" : "Passwords do not match.",
+
+   "forgot_password": "Forgot Password",
+   "login": "Login",
+   "dont_have_account": "Dont have an account?",
+   "already_have_account": "Already have an account?",
+   "register": "Register",
+   "register_now":"Register Now",
+   "i_agree_to_the_terms_and_conditions" : "I agree to the *terms and conditions.* By continuing, you agree to the terms and conditions.",
+
+
+   "profile_detail" : "Profile Detail",
+   "upload_profile_photo" : "Upload Your Photos",
+   "upload_profile_photo_description" : "Resources out incentivize relaxation floor loss cc.",
+   "add_photo" : "Add Photo",
+
+   "favorite_movies" : "Favorite Movies",
+   "no_favorite_movies" : "No favorite movies found.",
+
+
+   "home" : "Home",
+   "profile" : "Profile",
+
+
+   "limited_offer": "Limited Offer",
+   "offer_description" : "Choose a coin package to unlock new episodes and earn bonus!",
+   "offer_bonus_title": "Your Bonus",
+   "offer_bonus_1" : "Premium Account",
+   "offer_bonus_2" : "More Matches",
+   "offer_bonus_3" : "Top Position",
+   "offer_bonus_4" : "More Likes",
+
+   "choose_offer_to_unlock" : "Choose a coin package to unlock new episodes and earn bonus!",
+   "coin" : "Coin",
+   "view_all_coins" : "View All Coins",
+
+
+   "weekly_bonus" : "Weekly"
+
+
+
+
+}

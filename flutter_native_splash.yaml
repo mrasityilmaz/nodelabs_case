@@ -1,0 +1,18 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  # Splash logo for Android and iOS - 600x600px image
+  color: "#090909"
+  image: "assets/splash/600_icon.png"
+  ios_content_mode: center
+  fullscreen: true
+
+  # Android 12 Splash Screen - 762x762px circle in 1152x1152 px image
+  android_12:
+    color: "#090909"
+    image: "assets/splash/1152_icon.png"
+
+  info_plist_files:
+    - "ios/Runner/Info.plist"
